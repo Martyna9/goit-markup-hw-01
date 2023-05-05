@@ -1,1 +1,1 @@
-https://martyna9.github.io/goit-markup-hw-01/
+file:///C:/Users/HP/Documents/GitHub/goit-markup-hw-01/goit-markup-hw-01/index.html
