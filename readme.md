@@ -1,1 +1,1 @@
-<https://github.com/Martyna9/goit-markup-hw-02.git>
+https://github.com/Martyna9/goit-markup-hw-01
